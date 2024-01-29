@@ -2,7 +2,7 @@ body {
 	width: 200px;
 	height: 120px;
 	padding: 1rem;
-	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -15,7 +15,7 @@ label {
 	margin-bottom: 10px;
 	font-size: 18px;
 }
-input[type="range"] {
+input[type='range'] {
 	width: 100%;
 	box-shadow: 0 -30px 10px 20px rgba(0, 0, 0, 0.2);
 }
